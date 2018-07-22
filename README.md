@@ -1,22 +1,22 @@
-# blue-app-monero
+# blue-app-aeon forked from blue-app-monero
 
 
-Monero wallet application for Ledger Blue and Nano S
+AEON wallet application for Ledger Blue and Nano S
 
 
 # Revision 
 
-## v 0.12.4 / Beta 5
+## v 0.0.0 forked from 0.12.4 / Beta 5 for blue-app-monero
 
-Targeted Client: Monero 0.12.1
+Targeted Client: AEON 12.5.0
 
 - U2F support
 - Fix Windows detection problem
 - activate Mainnet 'Beta stage: USE AT YOUR OWN RISK'
 
-## v 0.12.3 / Beta 4
+## v 0.12. / Beta 4
 
-Targeted Client: Monero 0.12.1
+Targeted Client: Monero 0.12.
 
 - SDK 1.4.2.1 port
 
